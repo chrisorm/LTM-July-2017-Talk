@@ -1,4 +1,8 @@
 # LTM July 2017 Talk 
+## Specs
+
+* Python 3.5
+* Tensorflow 1.2
 
 ## Overview
 This repository has the code that accompanies the LTM talk on text classification with RNNs.
@@ -22,3 +26,6 @@ This is not intended to be a best practice guide, exceptionally cutting edge or 
 
 ### LSTM cell
 * **LSTMRNN** - An RNN classifier using LSTMCell
+
+
+### This is a work in progress - please raise an issue for any errors.
