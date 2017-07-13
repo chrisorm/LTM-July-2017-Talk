@@ -5,6 +5,8 @@ This repository has the code that accompanies the LTM talk on text classificatio
 
 This is intended to demonstrate how to go about implementing many of the recently developed architectures in Deep NLP. There are many more complex combinations of these tools you could use - mix and match should be quite straight forward.
 
+This is not intended to be a best practice guide, exceptionally cutting edge or most efficient. Its meant to be easy to follow and to encourage people to get stuck in!
+
 ### Basic RNN cell
 * **BasicRNN** - A simple RNN classifier using BasicRNNCell
 * **BasicBidirectionalRNN** - A Bidirectional RNN classifier using BasicRNNCell
