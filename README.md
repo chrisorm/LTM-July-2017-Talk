@@ -3,7 +3,7 @@
 ## Overview
 This repository has the code that accompanies the LTM talk on text classification with RNNs.
 
-This is intended to demonstrate how to go about implementing many of the recently developed architectures in Deep NLP. 
+This is intended to demonstrate how to go about implementing many of the recently developed architectures in Deep NLP. There are many more complex combinations of these tools you could use - mix and match should be quite straight forward.
 
 ### Basic RNN cell
 * **BasicRNN** - A simple RNN classifier using BasicRNNCell
