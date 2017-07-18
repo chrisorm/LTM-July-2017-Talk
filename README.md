@@ -28,4 +28,52 @@ This is not intended to be a best practice guide, exceptionally cutting edge or 
 * **LSTMRNN** - An RNN classifier using LSTMCell
 
 
+## Suggested Syllabus
+
+### Lesson 1 
+* Lecture 8 of CS224n [Slides](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture8.pdf)
+* WildML blog of RNNs in Tensorflow. [Blog](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) - Some features/locations may have changed between tensorflow versions.
+* Read the documentation about dynamic_rnn, and cell types, on tensorflow website. [dynamic_rnn](https://www.tensorflow.org/api_docs/python/tf/nn/dynamic_rnn) [BasicRNNCell](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture9.pdf)
+
+#### Exercises
+* **BasicRNN**
+
+
+### Lesson 2
+* Lecture 9 CS224n [Slides](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture9.pdf)
+* Colah's Blog on LSTMs [Blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* Read the documentation about GRUs and LSTMs, on tensorflow website. [LSTM](https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/LSTMCell) [GRU](https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/GRUCell)
+
+#### Exercises
+* **GRURNN**
+* **LSTMRNN**
+
+### Lesson 3
+
+#### Exercises
+* **BasicBidirectionalRNN** 
+* Modify this code to run bidirectional LSTM and GRU networks.
+
+### Lesson 4
+
+#### Exercises
+* **BasicBidirectionalRNN-MeanPooling**
+* **BasicBidirectionalRNN-MaxPooling** 
+* **GRUBidirectionalRNN-MeanPooling**
+* **GRUBidirectionalRNN-MaxPooling**
+
+### Lesson 5
+
+#### Exercises
+* **BasicRNNAttention**
+* Modify this code to run attention over an LSTM network.
+
+### Lesson 6+
+Apply these techniques to other datasets, some examples:
+#### Exercises
+
+* Yelp dataset [Site](https://www.yelp.co.uk/dataset_challenge)
+* Hierichal text classification [Kaggle](https://www.kaggle.com/c/lshtc)
+* Reuters Dataset [Site](http://www.daviddlewis.com/resources/testcollections/reuters21578/)
+
 ### This is a work in progress - please raise an issue for any errors.
