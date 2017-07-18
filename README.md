@@ -58,7 +58,7 @@ This is not intended to be a best practice guide, exceptionally cutting edge or 
 * Modify this code to run bidirectional LSTM and GRU networks.
 
 ### Lesson 
-* Oxford Deep NLP Conditional Language Modelling with attention [Slides](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%208%20-%20Conditional%20Language%20Modeling%20with%20Attention.pdf)4
+* Oxford Deep NLP Conditional Language Modelling with attention [Slides](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%208%20-%20Conditional%20Language%20Modeling%20with%20Attention.pdf)
 
 #### Exercises
 * **BasicBidirectionalRNN-MeanPooling**
