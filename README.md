@@ -32,6 +32,7 @@ This is not intended to be a best practice guide, exceptionally cutting edge or 
 
 ### Lesson 1 
 * Lecture 8 of CS224n [Slides](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture8.pdf)
+* First part of WildML blog on RNNs [Blog](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 * WildML blog of RNNs in Tensorflow. [Blog](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) - Some features/locations may have changed between tensorflow versions.
 * Read the documentation about dynamic_rnn, and cell types, on tensorflow website. [dynamic_rnn](https://www.tensorflow.org/api_docs/python/tf/nn/dynamic_rnn) [BasicRNNCell](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture9.pdf)
 
@@ -49,7 +50,8 @@ This is not intended to be a best practice guide, exceptionally cutting edge or 
 * **LSTMRNN**
 
 ### Lesson 3
-
+* Later part of WildML blog on RNNs [Blog](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* Read tensorflow documentation about [bidirectional_dynamic_rnn](https://www.tensorflow.org/api_docs/python/tf/nn/bidirectional_dynamic_rnn)
 #### Exercises
 * **BasicBidirectionalRNN** 
 * Modify this code to run bidirectional LSTM and GRU networks.
