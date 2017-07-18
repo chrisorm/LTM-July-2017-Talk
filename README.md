@@ -51,12 +51,14 @@ This is not intended to be a best practice guide, exceptionally cutting edge or 
 
 ### Lesson 3
 * Later part of WildML blog on RNNs [Blog](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* Oxford Deep NLP course [Lecture 5](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%205%20-%20Text%20Classification.pdf)
 * Read tensorflow documentation about [bidirectional_dynamic_rnn](https://www.tensorflow.org/api_docs/python/tf/nn/bidirectional_dynamic_rnn)
 #### Exercises
 * **BasicBidirectionalRNN** 
 * Modify this code to run bidirectional LSTM and GRU networks.
 
-### Lesson 4
+### Lesson 
+* Oxford Deep NLP Conditional Language Modelling with attention [Slides](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%208%20-%20Conditional%20Language%20Modeling%20with%20Attention.pdf)4
 
 #### Exercises
 * **BasicBidirectionalRNN-MeanPooling**
@@ -65,7 +67,9 @@ This is not intended to be a best practice guide, exceptionally cutting edge or 
 * **GRUBidirectionalRNN-MaxPooling**
 
 ### Lesson 5
-
+* Oxford Deep NLP Conditional Language Modelling with attention [Slides](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%208%20-%20Conditional%20Language%20Modeling%20with%20Attention.pdf)
+* Wild ML Post on attention [Blog](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+* Hierchical Attention Networks - Zhang, 2015 [Paper](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
 #### Exercises
 * **BasicRNNAttention**
 * Modify this code to run attention over an LSTM network.
